@@ -50,7 +50,7 @@ document.location.href = "your_setting_link";
 
 ## ライセンス
 
-Unlicense（パブリックドメイン）
+Unlicense license
 
 # English
 # Redirect_html
@@ -104,4 +104,4 @@ Replace `your_setting_link` with your actual target URL (e.g., `https://example.
 
 ## License
 
-Unlicense (Public Domain)
+Unlicense license
